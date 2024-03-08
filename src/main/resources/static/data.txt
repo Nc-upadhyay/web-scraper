@@ -1,0 +1,509 @@
+ RestaurantSchema 
+ { 
+  restaurantId= 4-CZCUEKTAWELZTE
+  restaurantName= Jia Xiang Xiao Chu 16 家乡小厨16店 - New Bridge
+  restaurantCuisine= Chinese, Local & Malaysian, Mala
+  restaurantRating= 4.3
+  estimatedDeliveryTime= 45 mins 
+  restaurantDistance=  2.1 km
+  promotionalOffers= Free Delivery (Min. spend S$35) with GrabUnlimited
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/jia-xiang-xiao-chu-16-%E5%AE%B6%E4%B9%A1%E5%B0%8F%E5%8E%A816%E5%BA%97-new-bridge-delivery/4-CZCUEKTAWELZTE?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-CY3TEBM3TF2GFA
+  restaurantName= Burger King - The Central
+  restaurantCuisine= Western, Fast Food, Burgers, Halal
+  restaurantRating= 4
+  estimatedDeliveryTime= 45 mins 
+  restaurantDistance=  0.9 km
+  promotionalOffers= Free Delivery (Min. spend S$25) with GrabUnlimited
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/burger-king-the-central-delivery/4-CY3TEBM3TF2GFA?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C3BKVPCTRLJDR2
+  restaurantName= Canadian Pizza - Kampong Bahru Road
+  restaurantCuisine= Fast Food, Dessert, Pizza, Halal, Indian | ឥណ្ឌា
+  restaurantRating= 4.5
+  estimatedDeliveryTime= 50 mins 
+  restaurantDistance=  3.1 km
+  promotionalOffers= Free Delivery (Min. spend S$45) with GrabUnlimited
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/canadian-pizza-kampong-bahru-road-delivery/4-C3BKVPCTRLJDR2?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C3XEWFCAERMHG2
+  restaurantName= Four Pizza - Havelock2
+  restaurantCuisine= Western, Pizza, Halal
+  restaurantRating= 4.6
+  estimatedDeliveryTime= 45 mins 
+  restaurantDistance=  1.9 km
+  promotionalOffers= Free Delivery (Min. spend S$25) with GrabUnlimited
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/four-pizza-havelock2-delivery/4-C3XEWFCAERMHG2?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C3VXLZKYHBUKTT
+  restaurantName= Hua Zai Roasted Duck - Killiney Road
+  restaurantCuisine= Chinese, Noodles, Local & Malaysian, Islandwide Delivery
+  restaurantRating= 4.3
+  estimatedDeliveryTime= 40 mins 
+  restaurantDistance=  2.2 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/hua-zai-roasted-duck-killiney-road-delivery/4-C3VXLZKYHBUKTT?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C3VBPB2KL6XJTA
+  restaurantName= Kinzo Izakaya - Club Street
+  restaurantCuisine= Japanese, Local & Malaysian, Seafood, Alcohol
+  restaurantRating= 4.3
+  estimatedDeliveryTime= 45 mins 
+  restaurantDistance=  2 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/kinzo-izakaya-club-street-delivery/4-C3VBPB2KL6XJTA?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C3NZRZEVRN5BNA
+  restaurantName= Panda BBQ 熊猫撸串 - New Bridge Road
+  restaurantCuisine= BBQ & Grill, Chinese, Seafood
+  restaurantRating= 4.5
+  estimatedDeliveryTime= 45 mins 
+  restaurantDistance=  2.3 km
+  promotionalOffers= 
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/panda-bbq-%E7%86%8A%E7%8C%AB%E6%92%B8%E4%B8%B2-new-bridge-road-delivery/4-C3NZRZEVRN5BNA?
+  isPromoAvailable= false
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C3XWR23KN4N3TX
+  restaurantName= Royal Briyani BBQ & Grill Restaurant - A Authentic Dum Briyani Restaurent heart of the City 🏍
+  restaurantCuisine= Indian, Biryani, Kebab, Seafood
+  restaurantRating= 3.9
+  estimatedDeliveryTime= 119 mins 
+  restaurantDistance=  4.9 km
+  promotionalOffers= S$4.00 off delivery fee with S$50.00 min. order
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/royal-briyani-bbq-grill-restaurant-a-authentic-dum-briyani-restaurent-heart-of-the-city-%F0%9F%8F%8D-delivery/4-C3XWR23KN4N3TX?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C3X1VRMCLN6WVX
+  restaurantName= Fat Bao Bao - High Street Plaza
+  restaurantCuisine= Local & Malaysian, Snack
+  restaurantRating= 4.5
+  estimatedDeliveryTime= 45 mins 
+  restaurantDistance=  1 km
+  promotionalOffers= 15% off with S$30.00 min. order
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/fat-bao-bao-high-street-plaza-delivery/4-C3X1VRMCLN6WVX?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C3TUJK2UC2L2E2
+  restaurantName= Takagi Ramen - Marine Parade Promenade
+  restaurantCuisine= Japanese, Noodles
+  restaurantRating= 4.3
+  estimatedDeliveryTime= 55 mins 
+  restaurantDistance=  8.6 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/takagi-ramen-marine-parade-promenade-delivery/4-C3TUJK2UC2L2E2?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-CZLWCY22ACKWMA
+  restaurantName= Royal Biriyani - Goldhill Shopping Centre
+  restaurantCuisine= Indian, Seafood, Islandwide Delivery, Drinks & Beverages
+  restaurantRating= 3
+  estimatedDeliveryTime= 112 mins 
+  restaurantDistance=  4.9 km
+  promotionalOffers= 
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/royal-biriyani-goldhill-shopping-centre-delivery/4-CZLWCY22ACKWMA?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= SGDD10639
+  restaurantName= Soi Thai Kitchen - Tampines Street 81
+  restaurantCuisine= Thai, Seafood, Asian
+  restaurantRating= 4.2
+  estimatedDeliveryTime= 60 mins 
+  restaurantDistance=  13.9 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/soi-thai-kitchen-tampines-street-81-delivery/SGDD10639?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-CZLXCYJ3ERBKVE
+  restaurantName= Tuk Tuk Cha - Paya Lebar Quarter
+  restaurantCuisine= Bubble Tea, Coffee & Tea, Fast Food, Thai, Asian
+  restaurantRating= 4
+  estimatedDeliveryTime= 50 mins 
+  restaurantDistance=  6.9 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/tuk-tuk-cha-paya-lebar-quarter-delivery/4-CZLXCYJ3ERBKVE?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C25TG4MYLCEXTE
+  restaurantName= AMRIT - Indian Fine Dining
+  restaurantCuisine= Indian, Breakfast & Brunch
+  restaurantRating= 2.8
+  estimatedDeliveryTime= 119 mins 
+  restaurantDistance=  12.2 km
+  promotionalOffers= S$2.00 off delivery fee with S$98.00 min. order
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/amrit-indian-fine-dining-delivery/4-C25TG4MYLCEXTE?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C25THE62JCLBBA
+  restaurantName= Swaad new Delhi Indian Restaurant - University Town NUS
+  restaurantCuisine= Breakfast & Brunch, Indian
+  restaurantRating= 2.6
+  estimatedDeliveryTime= 119 mins 
+  restaurantDistance=  12 km
+  promotionalOffers= S$2.00 off delivery fee with S$99.00 min. order
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/swaad-new-delhi-indian-restaurant-university-town-nus-delivery/4-C25THE62JCLBBA?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= SGDD05450
+  restaurantName= Marche Movenpick - 313 Somerset
+  restaurantCuisine= Western
+  restaurantRating= 4
+  estimatedDeliveryTime= 50 mins 
+  restaurantDistance=  3 km
+  promotionalOffers= Free Delivery (Min. spend S$40) with GrabUnlimited
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/marche-movenpick-313-somerset-delivery/SGDD05450?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C3NXVYWUFCBVN6
+  restaurantName= Foodie Express Korean & Japanese Cuisine - Katong Shopping Centre
+  restaurantCuisine= Convenience, Bento, Japanese
+  restaurantRating= 4.3
+  estimatedDeliveryTime= 45 mins 
+  restaurantDistance=  7.6 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/foodie-express-korean-japanese-cuisine-katong-shopping-centre-delivery/4-C3NXVYWUFCBVN6?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C3UVCCDXC6BUCT
+  restaurantName= Ishiro Fusion Bowl - East Village
+  restaurantCuisine= Japanese, Noodles, Bento, Sushi
+  restaurantRating= 4.6
+  estimatedDeliveryTime= 55 mins 
+  restaurantDistance=  15.5 km
+  promotionalOffers= 30% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/ishiro-fusion-bowl-east-village-delivery/4-C3UVCCDXC6BUCT?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-CZNKKEKJRLBTWE
+  restaurantName= Xing Le Mala Hotpot - Choa Chu Kang Ave 7
+  restaurantCuisine= Chinese, Local & Malaysian, Mala
+  restaurantRating= 4.1
+  estimatedDeliveryTime= 65 mins 
+  restaurantDistance=  19.3 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/xing-le-mala-hotpot-choa-chu-kang-ave-7-delivery/4-CZNKKEKJRLBTWE?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= SGDD11681
+  restaurantName= Carl's Jr. - Marina Square
+  restaurantCuisine= Western, Burgers, Snack
+  restaurantRating= 4.2
+  estimatedDeliveryTime= 50 mins 
+  restaurantDistance=  2.5 km
+  promotionalOffers= Free Delivery (Min. spend S$35) with GrabUnlimited
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/carl-s-jr-marina-square-delivery/SGDD11681?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= SGDD11568
+  restaurantName= The Soup Spoon - Raffles Xchange
+  restaurantCuisine= Soup, Western, Vegetarian Friendly, Healthy, Halal
+  restaurantRating= 4.4
+  estimatedDeliveryTime= 45 mins 
+  restaurantDistance=  1.9 km
+  promotionalOffers= 25% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/the-soup-spoon-raffles-xchange-delivery/SGDD11568?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= SGDD11342
+  restaurantName= Tongue Tip Lanzhou Beef Noodles 舌尖尖 - Chinatown Point
+  restaurantCuisine= Chinese, Halal
+  restaurantRating= 4.4
+  estimatedDeliveryTime= 40 mins 
+  restaurantDistance=  1.6 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/tongue-tip-lanzhou-beef-noodles-%E8%88%8C%E5%B0%96%E5%B0%96-chinatown-point-delivery/SGDD11342?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= SGDD06428
+  restaurantName= COLLIN'S® Restaurant - Marina Square
+  restaurantCuisine= Drinks & Beverages, Pasta, Salad, Group Friendly, Alcohol
+  restaurantRating= 4.3
+  estimatedDeliveryTime= 40 mins 
+  restaurantDistance=  2.5 km
+  promotionalOffers= Free Delivery (Min. spend S$35) with GrabUnlimited
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/collin-s%C2%AE-restaurant-marina-square-delivery/SGDD06428?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-CZJBJGMKVFKBHA
+  restaurantName= Antoheetos - Clarke Quay Central
+  restaurantCuisine= Mexican, Healthy, Kids Friendly, Vegetarian Friendly, Halal
+  restaurantRating= 3.7
+  estimatedDeliveryTime= 40 mins 
+  restaurantDistance=  0.9 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/antoheetos-clarke-quay-central-delivery/4-CZJBJGMKVFKBHA?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-CZDUG8CYUFUURJ
+  restaurantName= Cedele - Raffles City Shopping Centre
+  restaurantCuisine= Breakfast & Brunch, Western, Bakery & Cake
+  restaurantRating= 4.2
+  estimatedDeliveryTime= 45 mins 
+  restaurantDistance=  1.1 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/cedele-raffles-city-shopping-centre-delivery/4-CZDUG8CYUFUURJ?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-CY23VKEUCUA1CA
+  restaurantName= Delibowl - Funan 壹碗福南数码广场
+  restaurantCuisine= Local & Malaysian, Chinese, Zi Char, Halal
+  restaurantRating= 4.4
+  estimatedDeliveryTime= 45 mins 
+  restaurantDistance=  0.5 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/delibowl-funan-%E5%A3%B9%E7%A2%97%E7%A6%8F%E5%8D%97%E6%95%B0%E7%A0%81%E5%B9%BF%E5%9C%BA-delivery/4-CY23VKEUCUA1CA?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C3U1G3D2VLL1JE
+  restaurantName= Bowle - Chinatown Point
+  restaurantCuisine= Healthy, Healthy Mixed Bowls, Fried Chicken
+  restaurantRating= 4.2
+  estimatedDeliveryTime= 50 mins 
+  restaurantDistance=  1.6 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/bowle-chinatown-point-delivery/4-C3U1G3D2VLL1JE?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C3MGPGJTWFVCC6
+  restaurantName= Wrap Up - Kebab Burrito Salad Sandwich Mexican Food - Chinatown Point
+  restaurantCuisine= Mexican, Salad, Snack
+  restaurantRating= 4.1
+  estimatedDeliveryTime= 50 mins 
+  restaurantDistance=  1.6 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/wrap-up-kebab-burrito-salad-sandwich-mexican-food-chinatown-point-delivery/4-C3MGPGJTWFVCC6?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C341LFNUNEEASA
+  restaurantName= Nuodle Lanzhou Beef Noodle 牛一嘴兰州牛肉拉面 - Raffles City Shopping Centre
+  restaurantCuisine= Chinese, Fast Food, Noodles
+  restaurantRating= 4.3
+  estimatedDeliveryTime= 45 mins 
+  restaurantDistance=  1.1 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/nuodle-lanzhou-beef-noodle-%E7%89%9B%E4%B8%80%E5%98%B4%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E6%8B%89%E9%9D%A2-raffles-city-shopping-centre-delivery/4-C341LFNUNEEASA?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ } 
+
+ RestaurantSchema 
+ { 
+  restaurantId= 4-C26ZJFWXN3NHHA
+  restaurantName= The Alley - Funan
+  restaurantCuisine= Drinks & Beverages, Coffee & Tea, Bubble Tea, Group Friendly
+  restaurantRating= 4.4
+  estimatedDeliveryTime= 40 mins 
+  restaurantDistance=  0.5 km
+  promotionalOffers= 20% off storewide with GrabUnlimited. T&C apply.
+  restaurantNotice= false
+  imageLink= /sg/en/restaurant/the-alley-funan-delivery/4-C26ZJFWXN3NHHA?
+  isPromoAvailable= true
+  latitude= 0.0
+  longitude= 0.0
+  estimatedDeliveryFee= 0.0
+ }
