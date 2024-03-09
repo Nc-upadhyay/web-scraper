@@ -36,7 +36,7 @@ public class HomeController {
 
     // Endpoint to get details of all restaurants
     @Tag(name = "Get ALL Restaurants", description = "This API return the details of all restaurant. ")
-    @RequestMapping(value = "/restaurant-list", method = RequestMethod.GET)
+    @RequestMapping(value = "/restaurants", method = RequestMethod.GET)
     public ResponseEntity<List<RestaurantSchema>> getRestaurantList() {
         // Returning the list of all restaurant details along with HTTP status OK
         return ResponseEntity.ok(grabService.getRestaurants());

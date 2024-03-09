@@ -1,5 +1,10 @@
 package com.nc.service.impl;
 
+//import com.fasterxml.jackson.databind.JsonNode;
+//import com.fasterxml.jackson.databind.ObjectMapper;
+
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.nc.exception.RestaurantIDNotFound;
 import com.nc.model.RestaurantSchema;
 import com.nc.service.GrabService;
@@ -7,7 +12,10 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import org.springframework.scheduling.annotation.Scheduled;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.springframework.stereotype.Service;
 
 import java.io.BufferedWriter;
@@ -94,6 +102,11 @@ public class GrabServiceImpl implements GrabService {
                         select("div.promoTag___IYhfm").select("div.promoTagHead___1bjRG").text();
                 // Creating RestaurantSchema object and setting details
                 RestaurantSchema restaurantSchema = new RestaurantSchema();
+                try {
+                    getCoordinate("https://food.grab.com" + id_Href, restaurantSchema);// setting the coordinate
+                } catch (Exception e) {
+                    e.getMessage();
+                }
                 restaurantSchema.setRestaurantId(restaurant_id);
                 restaurantSchema.setRestaurantName(restaurant_name);
                 restaurantSchema.setRestaurantCuisine(restaurantCuisine);
@@ -101,15 +114,17 @@ public class GrabServiceImpl implements GrabService {
                 restaurantSchema.setEstimatedDeliveryTime(estimatedTime);
                 restaurantSchema.setRestaurantDistance(distance);
                 restaurantSchema.setPromotionalOffers(promotionalOffers);
-                restaurantSchema.setImageLink(id_Href);
+//                restaurantSchema.setImageLink(id_Href);
                 restaurantSchema.setRestaurantNotice("false");
                 restaurantSchema.setIsPromoAvailable(getPromoIsAvailable((promo)));
                 // Adding RestaurantSchema object to the list
                 restaurantSchemas.add(restaurantSchema);
+                break;
             }
         } catch (Exception e) {
             e.printStackTrace();
         }
+        saveResultInJsonFormat();
     }
 
 
@@ -164,8 +179,7 @@ public class GrabServiceImpl implements GrabService {
         return parts;
     }
 
-    @Scheduled(initialDelay = 15000)
-    public void saveToFileInJsonFormat() {
+    public void saveResultInJsonFormat() {
         try {
             FileWriter writer = new FileWriter(filePath);
             BufferedWriter bw = new BufferedWriter(writer);
@@ -179,4 +193,32 @@ public class GrabServiceImpl implements GrabService {
             logger.info("Failed to save restaurant data to " + filePath);
         }
     }
+
+    public void getCoordinate(String url, RestaurantSchema restaurantSchema) {
+        try {
+            Document document = Jsoup.connect(url).get();
+            Element element = document.getElementById("__NEXT_DATA__");
+            ObjectMapper objectMapper = new ObjectMapper();
+            JsonNode root = objectMapper.readTree(element.data());
+            // Navigate to the geolocation object
+            JsonNode geolocationNode = root.path("props").path("ssrState");
+//          JsonNode imageLinkNode = root.path("props").path("ssrState").path("countryConfig").path("seo");
+
+            // Get the longitude value
+            double longitude = geolocationNode.path("geolocation").path("longitude").asDouble();
+            double latitude = geolocationNode.path("geolocation").path("latitude").asDouble();
+            //Get the image link
+            String imageLink = geolocationNode.path("countryConfig").path("restaurants").path("download_img").toString();
+            restaurantSchema.setLatitude(latitude);
+            restaurantSchema.setLongitude(longitude);
+            if(!imageLink.isEmpty())
+            restaurantSchema.setImageLink("https://food.grab.com/sg/en/"+imageLink.substring(2,imageLink.length()-1));
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+    }
+
 }
+
