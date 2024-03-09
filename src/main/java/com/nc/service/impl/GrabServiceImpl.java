@@ -119,7 +119,6 @@ public class GrabServiceImpl implements GrabService {
                 restaurantSchema.setIsPromoAvailable(getPromoIsAvailable((promo)));
                 // Adding RestaurantSchema object to the list
                 restaurantSchemas.add(restaurantSchema);
-                break;
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -211,8 +210,8 @@ public class GrabServiceImpl implements GrabService {
             String imageLink = geolocationNode.path("countryConfig").path("restaurants").path("download_img").toString();
             restaurantSchema.setLatitude(latitude);
             restaurantSchema.setLongitude(longitude);
-            if(!imageLink.isEmpty())
-            restaurantSchema.setImageLink("https://food.grab.com/sg/en/"+imageLink.substring(2,imageLink.length()-1));
+            if (!imageLink.isEmpty())
+                restaurantSchema.setImageLink("https://food.grab.com/sg/en/" + imageLink.substring(2, imageLink.length() - 1));
 
         } catch (Exception e) {
             e.printStackTrace();
